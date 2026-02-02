@@ -5,4 +5,8 @@ tags:
   - "#Ramadan1446"
 ---
 Pertama kalinya project #quranjournaling ini dikerjakan.
-Pembacaan dimulai dari juz 20-30 selama bulan Ramadan 1446 H.
+Pembacaan dimulai dari juz 19-30 selama bulan Ramadan 1446 H.
+
+# Direktori Juz
+[[Juz 19]]
+[[Juz 20]]
