@@ -11,12 +11,12 @@ html {
   width: 100vw;
 
   @media all and ($mobile) {
-    scroll-padding-top: 4rem;
+    scroll-padding-top: 2.5rem;
   }
 }
 
 body {
-  margin: 2em;
+  
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
