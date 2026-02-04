@@ -22,16 +22,21 @@ tags:
 	
 	Kenapa ngajinya sedikit? Ya... namanya juga masih baru mau membiasakan diri lagi, jadi kita mulai dari langkah kecil-kecil dulu.
 
-2. **Setiap menemukan ayat yang diksi/terjemahan penggalannya menarik, aku menandainya dahulu dengan pensil.** 
+2. **Setiap menemukan ayat yang diksi/terjemahan penggalannya menarik, aku tandain dulu dengan pensil.** 
 
-	Jujur aja meski aku ga pandai banget bahasa Arab, tapi sedikit ngerti kosakata dasar seperti "*jannah*" (surga), "*jaza'*" (balasan), "*walidain*" (orang tua), dll itu cukup memantik *"oh ini ayatnya seru"*
+	Jujur aja meski aku ga pandai banget bahasa Arab, tapi sedikit ngerti kosakata dasar seperti "*jannah*" (surga), "*jaza'*" (balasan), "*walidain*" (orang tua), "*ihsan*" (baik), dll itu cukup memantik *"oh ini ayatnya seru"*
 	
 3. **Setelah itu, aku baru baca terjemah penuhnya** agar mengerti maksud yang sebenarnya (karena kadang suka salah sangka; diksinya bagus tapi ternyata maknanya beda dengan apa yang aku pikirkan). 
 
 4. **Selanjutnya, ayat-ayat tersebut harus dicatat di buku.**
 
-	Kenapa buku? langsung satset, tidak banyak buka aplikasi yang berpotensi jadi distraksi. Juga biar apa yang ditulis jadi lebih nyantol.
-	Btw, info yang kucatat: 
+	Kenapa buku? 
+	1. Langsung satset, tidak harus membuka HP/laptop yang berpotensi jadi distraksi
+	2. Biar apa yang ditulis jadi lebih nyantol
+	3. Tulisannya berlanjut
+	
+	Buat empat kolom untuk informasi-informasi ini: 
+	- No.
 	- Nama surat
 	- Nomor ayat
 	- Ringkasan/kesan pribadi/insight yang didapatkan dari ayat tersebut

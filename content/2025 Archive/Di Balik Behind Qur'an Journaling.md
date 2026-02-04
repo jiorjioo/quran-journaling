@@ -19,11 +19,11 @@ Project ini akhirnya bersifat eksperimental dan kupaksa mulai di Ramadan 1446 H.
 
 Alhamdulillah project eksperimental ini berhasil berjalan rutin selama 1 bulan~ Ga expect aja sih, ternyata arsip "ayat yang berkesan" ini merekam momen dan menggambarkan pattern-ku selama 1 bulan itu. Emosi yang kurasakan, hal yang paling sering aku pikirkan, dan lain-lain. Mungkin inilah yang orang-orang sebut "Allah sedang berbicara ke kita lewat Al-Qur'an" ?
 
-Tantangannya mostly karena malas sih. Malas menyalin dan buka berlembar-lembar ayat yang ditandain karena belum ditulis di jurnal. Tapi setiap aku belum nulis, itu rasanya kaya ada PR yang belum dikerjain. Sehingga mau ga mau kalau ada yang terlewat harus segera dikejar.
+Tantangannya mostly karena malas sih. Malas menyalin dan buka berlembar-lembar ayat yang ditandain karena belum ditulis di jurnal. Setiap aku belum nulis, itu rasanya kaya ada PR yang belum dikerjain. Sehingga mau ga mau kalau ada yang terlewat harus segera dikejar.
 
 Journaling ini rasanya seperti mencari *sidequest* setiap hari. Kegiatan ini juga cenderung nagih banget. Setiap hari, aku selalu penasaran akan ada "kejutan" apa yang kutemukan besok. Ibarat kata, *"wah besok Allah mau ngomong tentang apa ya ke aku..."* . Seru!
 
-Mungkin memang terkesan lebih lambat dan target khataman tidak terpenuhi. Tapi itu ga seberapa dibandingkan dengan pengalaman mengarsipkan "dialog" bersama Tuhan selama #quranjournaling !
+Mungkin memang terkesan lebih lambat dan berpotensi target khataman tidak terpenuhi. Tapi itu ga seberapa dibandingkan dengan pengalaman mengarsipkan "dialog" bersama Tuhan selama #quranjournaling !
 
 ---
 ## Penutup

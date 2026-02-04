@@ -1,26 +1,18 @@
 ---
 title: Salam! 👋
 ---
-# Selayang Pandang
+` **Halo, selamat datang!** `
 
 Jadi, Ramadan tahun lalu, aku punya project iseng yaitu ***Qur'an Journaling***.  *Qur'an Journaling* adalah suatu metode journaling/mencatat apapun yang berkaitan dengan pembacaan Al-Qur'an. Ini metode pencatatan yang cukup personal dan bisa berisi macam-macam tema: insight ceramah, tafsir, asbabun nuzul, hingga "sekadar" refleksi momen personal yang berkaitan dengan ayat yang sedang dibaca. 
 
 Arsipku menganut konsep yang terakhir, atau dengan kata lain "hanya" ayat-ayat yang relate/berkesan bagiku selama periode pembacaan. Sehingga mungkin ada ayat yang terlewat atau tidak "nyes" bagi orang lain. Bisa dibilang setiap ayat yang ditulis di sini menjadi "momen pengingat" fase atau keadaan tertentu di waktu itu.
 
-Awalnya punyaku ditulis manual di buku, tapi setelah sharing ke teman-teman, mereka menyarankan untuk dibuat versi online-nya. Jadilah situs (Between Verses)[[https://betweenverses.vercel.app]]  ini~
+Awalnya punyaku ditulis manual di buku, tapi setelah sharing ke teman-teman, mereka menyarankan untuk dibuat versi online-nya. Jadilah situs [Between Verses]((https://betweenverses.vercel.app)ini~
 
-Oke deh, selamat menjelajahi situs yang masih banyak alpanya ini. 
+Oke deh, kalau gitu selamat menjelajahi situs yang masih banyak alpanya ini. 
 
 Terima kasih udah mampir ya!
 
----
-
-
-**`Log Update`**
-
-*4/2/2026 : Menambahkan index journaling Juz 23 dan sebagian Juz 24*
-
-*3/2/2026 : Modifikasi interface, tambah index Juz 22*
 
 ---
 
@@ -30,7 +22,7 @@ Terima kasih udah mampir ya!
 
 [[Juz 20]] / [[Juz 21]] / [[Juz 22]] / [[Juz 23]] / [[Juz 24]]
 
-> Mohon maaf kalau ada juz yang catatannya sedikit, sebab mungkin lupa ditulis atau lalai lainnya
+> *Mohon maaf kalau ada juz yang catatannya sedikit, sebab mungkin lupa ditulis atau lalai lainnya*
 
 
 ### **Halaman-halaman**
@@ -49,5 +41,13 @@ Di layar PC/Desktop, graph view ini ada di sidebar kanan. Di layar yang lebih ke
 Enjoy!
 
 ---
-**Sumber teks ayat dan terjemahan:** [[https://quran.com]]
+
+**Sumber teks ayat dan terjemahan:** [Quran.com](https://quran.com)
+
+
+**`Log Update`**
+
+*4/2/2026 : Menambahkan index journaling Juz 23 dan sebagian Juz 24*
+
+*3/2/2026 : Modifikasi interface, tambah index Juz 22*
 
