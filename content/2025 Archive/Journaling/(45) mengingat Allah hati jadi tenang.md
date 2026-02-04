@@ -14,4 +14,4 @@ Allah telah menurunkan perkataan yang paling baik (yaitu) Al-Qur'an yang serupa 
 orang yang mengingat Allah hati dan kulitnya jadi #tenang
 
 ---
-**Direktori**: [[Juz 22]]
+**Direktori**: [[Juz 23]]

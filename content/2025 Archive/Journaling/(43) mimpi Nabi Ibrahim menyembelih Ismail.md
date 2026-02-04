@@ -14,4 +14,4 @@ Maka ketika anak itu sampai (pada umur) sanggup berusaha bersamanya, (Ibrahim) b
 #mimpi Nabi Ibrahim menyembelih Ismail
 
 ---
-**Direktori**: [[Juz 22]]
+**Direktori**: [[Juz 23]]

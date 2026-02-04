@@ -21,4 +21,4 @@ Dan segala puji bagi Allah Tuhan seluruh alam.
 closing #doa :)
 
 ---
-**Direktori**: [[Juz 22]]
+**Direktori**: [[Juz 23]]

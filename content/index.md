@@ -1,8 +1,7 @@
 ---
-title: Balma's Qur'an Journaling Archive 📖
+title: Salam! 👋
 ---
 
-# Salam! 👋
 Ini adalah project isengku di Ramadan tahun lalu. Awalnya ditulis manual di buku, tapi setelah sharing ke teman-teman, mereka menyarankan untuk dibuat versi online-nya.
 
 Btw, *Qur'an Journaling* adalah suatu metode journaling/mencatat apapun yang berkaitan dengan pembacaan Al-Qur'an kita. Catatannya bisa berisi macam-macam: ada yang berupa insight ceramah, tafsir, asbabun nuzul, hingga "sekadar" refleksi momen personal yang berkaitan dengan ayat yang sedang dibaca. 

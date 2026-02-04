@@ -16,3 +16,6 @@
 
 [[(40) mudah-mudahan kita termasuk orang yang diizinin dapet syafaat Allah]]
 
+[[(41) Allah yang perluas dan persempit rezeki]]
+
+[[(42) eksplorasi dunia biar ngerti sejarah masa lalu]]

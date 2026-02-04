@@ -15,4 +15,4 @@ Allah memegang nyawa (seseorang) pada saat kematiannya dan nyawa (seseorang) yan
 2. yang #mati berarti jiwanya lagi ditahan, yang masi idup jiwanya dibalikin pas bangun
 
 ---
-**Direktori**: [[Juz 22]]
+**Direktori**: [[Juz 24]]
