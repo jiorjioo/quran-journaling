@@ -1,6 +1,7 @@
 @use "./variables.scss" as *;
 @use "sass:color";
 
+
 .callout {
   border: 1px solid var(--border);
   background-color: var(--bg);

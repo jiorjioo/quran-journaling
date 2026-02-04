@@ -1,7 +1,7 @@
 ---
-Nama Surat:
-No. Ayat:
-date:
+Nama Surat: Al-Ankabut
+No. Ayat: 60
+date: 2025-03-03
 ---
 > [!rtl] Al-Ankabut: 60
 > وَكَأَيِّن مِّن دَآبَّةٍۢ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ 
@@ -17,4 +17,4 @@ Siapa yang membawa (mengurus) rezeki untuk binatang? ya jelas Allah!
 
 
 ---
-**Direktori**: [[Juz 20]]
+**Direktori**: [[Juz 21]]

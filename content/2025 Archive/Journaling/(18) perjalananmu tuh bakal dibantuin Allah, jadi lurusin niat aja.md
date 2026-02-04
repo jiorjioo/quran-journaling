@@ -1,7 +1,7 @@
 ---
-Nama Surat:
-No. Ayat:
-date:
+Nama Surat: Al-Ankabut
+No. Ayat: 69
+date: 2025-03-03
 ---
 > [!rtl] Al-Ankabut:69
 > وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ
@@ -15,4 +15,4 @@ Dan orang-orang yang ber #jihad untuk (mencari keridaan) Kami, Kami akan tunjukk
 2. Allah benar-benar menyertai orang-orang yang berbuat baik
 
 ---
-**Direktori**: [[Juz 20]]
+**Direktori**: [[Juz 21]]

@@ -1,7 +1,7 @@
 ---
-Nama Surat:
-No. Ayat:
-date:
+Nama Surat: Al-Ankabut
+No. Ayat: 62
+date: 2025-03-03
 ---
 > [!rtl] Al-Ankabut: 62
 > ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ
@@ -16,4 +16,4 @@ Siapa yang melapangkan dan menyempitkan rezeki? ya jelas Allah!
 > *NB: ayat 60-63 sebenarnya isinya sama-sama mengenal siapa Allah*
 
 ---
-**Direktori**: [[Juz 20]]
+**Direktori**: [[Juz 21]]

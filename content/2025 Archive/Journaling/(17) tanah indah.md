@@ -1,17 +1,17 @@
 ---
-Nama Surat:
-No. Ayat:
-date:
+Nama Surat: Al-Ankabut
+No. Ayat: 67
+date: 2025-03-03
 ---
 > [!rtl] Al-Ankabut:67
 > أَوَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا حَرَمًا ءَامِنًۭا وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ ۚ أَفَبِٱلْبَـٰطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ ٱللَّهِ يَكْفُرُونَ
 > 
 
-Tidakkah mereka memperhatikan, bahwa Kami telah menjadikan ( #negeri mereka) tanah suci yang aman, padahal manusia di sekitarnya saling merampok. Mengapa (setelah nyata kebenaran) mereka masih percaya kepada yang batil dan ingkar kepada nikmat Allah?
+Tidakkah mereka memperhatikan, bahwa Kami telah menjadikan ( #negeri mereka) tanah suci yang aman, padahal #manusia di sekitarnya saling merampok. Mengapa (setelah nyata kebenaran) mereka masih percaya kepada yang batil dan ingkar kepada nikmat Allah?
 
 ---
 # Insight
 Tanah Indah untuk Para Terabaikan Rusak dan Ditinggalkan -- FSTVLST wkw
 
 ---
-**Direktori**: [[Juz 20]]
+**Direktori**: [[Juz 21]]

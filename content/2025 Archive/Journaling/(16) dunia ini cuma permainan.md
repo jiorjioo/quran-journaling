@@ -1,7 +1,7 @@
 ---
-Nama Surat:
-No. Ayat:
-date:
+Nama Surat: Al-Ankabut
+No. Ayat: 64
+date: 2025-03-03
 ---
 > [!rtl] Al-Ankabut:64
 >وَمَا هَـٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَهْوٌۭ وَلَعِبٌۭ ۚ وَإِنَّ ٱلدَّارَ ٱلْـَٔاخِرَةَ لَهِىَ ٱلْحَيَوَانُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
@@ -14,4 +14,4 @@ Dan #kehidupan dunia ini hanya senda gurau dan #permainan. Dan sesungguhnya nege
 Tuh, dunia ini cuma permainan, akhirat tuh abadi!
 
 ---
-**Direktori**: [[Juz 20]]
+**Direktori**: [[Juz 21]]

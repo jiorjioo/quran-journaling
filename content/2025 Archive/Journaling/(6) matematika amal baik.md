@@ -1,6 +1,6 @@
 ---
 Nama Surat: Al-Qashash
-No. Ayat: 5
+No. Ayat: 84
 date: 2025-03-03
 ---
 > [!rtl] Al-Qashash (84)
