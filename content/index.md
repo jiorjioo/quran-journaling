@@ -8,25 +8,37 @@ Btw, *Qur'an Journaling* adalah suatu metode journaling/mencatat apapun yang ber
 
 Arsipku menganut konsep yang terakhir, atau dengan kata lain "hanya" ayat-ayat yang relate/berkesan bagiku selama periode pembacaan. Sehingga mungkin ada ayat yang terlewat atau tidak "nyes" bagi orang lain. Bisa dibilang setiap ayat yang ditulis di sini menjadi "momen pengingat" fase atau keadaan tertentu di waktu itu.
 
+
+---
+
+
+**`Log Update`**
+
+*4/2/2026 : Menambahkan index journaling Juz 23 dan sebagian Juz 24*
+
+*3/2/2026 : Modifikasi interface, tambah index Juz 22*
+
 ---
 
 # 🌏 Navigasi Situs
 
-**Arsip Post berdasar Juz**
+### **Arsip Post berdasar Juz**
 
-[[Juz 19]] / [[Juz 20]] / [[Juz 21]]
+[[Juz 20]] / [[Juz 21]] / [[Juz 22]] / [[Juz 23]] / [[Juz 24]]
+
+> Mohon maaf kalau ada juz yang catatannya sedikit, sebab mungkin lupa ditulis atau lalai lainnya
 
 
-**Halaman-halaman**
+### **Halaman-halaman**
 
-1. [[Story Behind Qur'an Journaling]]
-2. [[Mulai Qur'an Journal-mu sendiri!]]
+1. [[Di Balik Behind Qur'an Journaling]]
+2. [[Mulai Qur'an Journaling]]
 
-**Cara menggunakan visual graph**
+### **Cara menggunakan visual graph**
 
-Situs ini dilengkapi fitur *Graph View*. Jadi, kamu bisa menavigasi catatanku berdasarkan peta graph yang disusun otomatis oleh sistem.
+Situs ini dilengkapi fitur *Graph View*. Jadi, kamu bisa menavigasi catatanku berdasarkan peta graph yang disusun otomatis oleh sistem. Kamu bisa mengakses *nodes* (bulatan) dan *tags* (penanda).
 
-Klik icon .... , arahkan kursor ke tiap *node* atau bulatan-bulatan yang kamu inginkan. Semakin besar bulatan, berarti semakin banyak isi catatan yang terhubung.
+Arahkan kursor ke tiap *node* atau bulatan-bulatan yang kamu inginkan. Semakin besar bulatan, berarti semakin banyak isi catatan yang terhubung.
 
 Di layar PC/Desktop, graph view ini ada di sidebar kanan. Di layar yang lebih kecil (HP, dll) ada di halaman paling bawah.
 

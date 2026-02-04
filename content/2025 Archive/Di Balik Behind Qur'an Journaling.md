@@ -4,6 +4,8 @@ draft: false
 tags:
   - "#Ramadan1446"
 ---
+---
+
 ## Awal Mula
 
 Inisiasi #quranjournaling ini hasil dari akumulasi perasaan *guilty* sebab tidak pernah khatam Al-Qur'an selama Ramadan di beberapa tahun terakhir. Selain karena aku menganut paham fikih tidak menyentuh dan membaca Al-Qur'an saat sedang haid, ternyata masalah sekundernya ada di mindsetku yang memang terkesan memberatkan diri sendiri. Aku berpikir "kasihan" pada setengah kitab terakhir yang tidak tersentuh. 
@@ -13,7 +15,7 @@ Akhirnya, aku menemukan cara yang lebih *fun*: **melanjutkan pembacaan terakhir 
 Project ini akhirnya bersifat eksperimental dan kupaksa mulai di Ramadan 1446 H.
 
 
-## Setelah 1 Bulan...
+## Result
 
 Alhamdulillah project eksperimental ini berhasil berjalan rutin selama 1 bulan~ Ga expect aja sih, ternyata arsip "ayat yang berkesan" ini merekam momen dan menggambarkan pattern-ku selama 1 bulan itu. Emosi yang kurasakan, hal yang paling sering aku pikirkan, dan lain-lain. Mungkin inilah yang orang-orang sebut "Allah sedang berbicara ke kita lewat Al-Qur'an" ?
 
@@ -23,7 +25,6 @@ Journaling ini rasanya seperti mencari sidequest setiap hari. Kegiatan ini juga 
 
 ---
 ## Penutup
-
 
 Awalnya aku ingin sesederhana dalam format spreadsheet atau database Notion saja. Tapi di pertengahan, aku menemukan metode unik yakni "digital garden". Alias, ini akan jadi arsip digital yang isinya selalu tumbuh seperti sedang berkebun bunga🌸. 
 

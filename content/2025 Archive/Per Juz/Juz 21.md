@@ -1,3 +1,11 @@
+---
+title: Catatan dari Juz 21
+draft: false
+tags:
+  - Ramadan1446
+---
+---
+
 [[(12) karena bumi itu luas, maka...]]
 
 [[(13) in the end, semua akan mati]]

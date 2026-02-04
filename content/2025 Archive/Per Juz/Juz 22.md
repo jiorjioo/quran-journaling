@@ -1,3 +1,11 @@
+---
+title: Catatan dari Juz 22
+draft: false
+tags:
+  - Ramadan1446
+---
+---
+
 [[(32) larangan bertabarruj]]
 
 [[(33) ingat Allah banyak-banyak]]

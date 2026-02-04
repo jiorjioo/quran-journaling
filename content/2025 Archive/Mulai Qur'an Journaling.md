@@ -1,17 +1,19 @@
 ---
-title: 📝 Mulai Qur'an Journal-mu sendiri!
+title: Memulai Qur'an Journaling
 draft: false
 tags:
 ---
 
 > *Ini kalau cara manual*
-### Alat dan Bahan
+# Preps
+
 1. Buku yang besar, mudah terlihat, dan sering dibuka
 2. Pulpen
 3. Pensil
 4. Al-Qur'an terjemah
 
-### Langkah-langkah
+# Steps
+
 1. **Tentukan durasi sesi baca Al-Qur'an**
 
 	Waktu itu, aku menganggarkan minimal 1/4 juz setiap sehabis Subuh sampai jam 06.00 dan sehabis Isya' sampai jam 21.00. 

@@ -1,3 +1,11 @@
+---
+title: Catatan dari Juz 20
+draft: false
+tags:
+  - Ramadan1446
+---
+---
+
 [[(1) Perintah untuk eksplorasi dunia]]
 
 [[(2) kenapa tawakkal]]
@@ -20,5 +28,5 @@
 
 [[(11) biar ga males salat]]
 
-
+ 
 

@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 2em;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
@@ -149,7 +149,7 @@ a {
 .mobile-only {
   display: none;
   &.flex-component {
-    display: none;
+    display: flex;
   }
   @media all and ($mobile) {
     &.flex-component {

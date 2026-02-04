@@ -1,3 +1,11 @@
+---
+title: Catatan dari Juz 24
+draft: false
+tags:
+  - Ramadan1446
+---
+---
+
 
 [[(46) yang terjadi saat kita tidur]]
 
