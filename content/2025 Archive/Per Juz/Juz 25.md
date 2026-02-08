@@ -1,3 +1,10 @@
+---
+title: Catatan dari Juz 25
+draft: false
+tags:
+  - "#Ramadan1446"
+---
+ 
 [[(66) Allah menciptakan makhlukNya berpasang-pasangan]]
 
 [[(67) fokus amalan dunia atau amalan akhirat]]
