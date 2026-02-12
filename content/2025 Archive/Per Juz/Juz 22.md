@@ -1,5 +1,5 @@
 ---
-title: Catatan dari Juz 22
+title: Juz 22
 draft: false
 tags:
   - Ramadan1446

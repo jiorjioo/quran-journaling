@@ -1,5 +1,5 @@
 ---
-title: Memulai Qur'an Journaling
+title: Memulai Qur'an Journaling-mu Sendiri
 draft: false
 tags:
 ---
@@ -41,5 +41,7 @@ tags:
 	- Nomor ayat
 	- Ringkasan/kesan pribadi/insight yang didapatkan dari ayat tersebut
 	
-Yap, tidak ada dekorasi estetik atau kolom yang banyak.
-Hanya tiga informasi penting itu saja.
+
+
+Ini contoh Qur'an Journaling-ku hehe..
+![[WhatsApp Image 2026-02-12 at 01.43.09.jpeg]]

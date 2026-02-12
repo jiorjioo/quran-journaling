@@ -1,5 +1,5 @@
 ---
-title: Catatan dari Juz 20
+title: Juz 20
 draft: false
 tags:
   - Ramadan1446

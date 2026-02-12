@@ -1,0 +1,17 @@
+---
+Nama Surat:
+No. Ayat:
+date:
+---
+> [!rtl] Al-Hadid: 21
+> سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+> 
+
+Berlomba-lombalah kamu untuk mendapatkan #ampunan dari Tuhanmu dan #surga yang luasnya seluas langit dan #bumi, yang disediakan bagi orang-orang yang #beriman kepada Allah dan rasul-rasul-Nya. Itulah karunia Allah, yang diberikan kepada siapa yang Dia kehendaki. Dan Allah mempunyai #karunia yang besar.
+
+---
+# Insight
+Berlomba-lomba untuk mendapat ampunan Allah yang luasnya seluas langit dan bumi.
+
+---
+**Direktori**: [[Juz 27]]

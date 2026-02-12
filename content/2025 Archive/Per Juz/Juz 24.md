@@ -1,5 +1,5 @@
 ---
-title: Catatan dari Juz 24
+title: Juz 24
 draft: false
 tags:
   - Ramadan1446
@@ -45,4 +45,4 @@ tags:
 
 [[(65) pahala dan dosa itu tanggungan pribadi]]
 
-[[(66) Allah menciptakan makhlukNya berpasang-pasangan]]
+

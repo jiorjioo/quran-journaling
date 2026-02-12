@@ -1,0 +1,17 @@
+---
+Nama Surat:
+No. Ayat:
+date:
+---
+> [!rtl] Al-Hadid: 16
+> ۞ أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌۭ مِّنْهُمْ فَـٰسِقُونَ
+> 
+
+Belum tibakah #waktu nya bagi orang-orang yang #beriman, untuk secara khusyuk mengingat Allah dan mematuhi kebenaran yang telah diwahyukan (kepada mereka), dan janganlah mereka (berlaku) seperti orang-orang yang telah menerima kitab sebelum itu, kemudian mereka melalui masa yang panjang sehingga hati mereka menjadi keras. Dan banyak di antara mereka menjadi orang-orang fasik.
+
+---
+# Insight
+Allah tuh nungguin kapan kita bisa sepenuh hati mendengarkan seruanNya dan berdzikir
+
+---
+**Direktori**: [[Juz 22]]

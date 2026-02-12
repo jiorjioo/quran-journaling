@@ -1,0 +1,17 @@
+---
+Nama Surat:
+No. Ayat:
+date:
+---
+> [!rtl] Al-Fath: 10
+> إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَـٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًۭا
+> 
+
+Bahwa orang-orang yang berjanji setia kepadamu (Muhammad), sesungguhnya mereka hanya berjanji setia kepada Allah. Tangan Allah di atas tangan-tangan mereka, maka barangsiapa melanggar #janji, maka sesungguhnya dia melanggar atas (janji) sendiri; dan barangsiapa menepati janjinya kepada Allah, maka Dia akan memberinya #pahala yang besar.
+
+---
+# Insight
+ayat pelantikan IPM ><
+
+---
+**Direktori**: [[Juz 26]]

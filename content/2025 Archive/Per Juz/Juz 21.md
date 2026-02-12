@@ -1,5 +1,5 @@
 ---
-title: Catatan dari Juz 21
+title: Juz 21
 draft: false
 tags:
   - Ramadan1446
