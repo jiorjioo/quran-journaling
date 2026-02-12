@@ -29,9 +29,11 @@ Terima kasih udah mampir!
 
 ### **Halaman-halaman**
 
-1. [[3. Di Balik Behind Qur'an Journaling]]
-2. [[2. Mulai Qur'an Journaling]]
-3. [[1. Cara Menggunakan Situs Between Verses]]
+[[1. Cara Menggunakan Situs Between Verses]]
+
+[[2. Mulai Qur'an Journaling]]
+
+[[3. Di Balik Behind Qur'an Journaling]]
 
 
 ---
