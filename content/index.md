@@ -52,12 +52,19 @@ Terima kasih udah mampir!
 
 **` Log Update `**
 
-> *12/2/2026 : Index Juz 29 dan Juz 30 done*
+*12/2/2026 : Index Juz 29 dan Juz 30 done*
+
 *10/2/2026 : Index Juz 28 done*
+
 *9/2/2026 : Index Juz 26 done, Juz 27 done*
+
 *7/2/2026 : Index Juz 25 done, tambah sebagian Juz 26*
+
 *6/2/2026 : Update Juz 24 dan sebagian Juz 25*
+
 *5/2/2026 : Menyelesaikan index Juz 24*
+
 *4/2/2026 : Menambahkan index journaling Juz 23 dan sebagian Juz 24*
+
 *3/2/2026 : Modifikasi interface, tambah index Juz 22*
 
