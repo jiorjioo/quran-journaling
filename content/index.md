@@ -52,7 +52,7 @@ Terima kasih udah mampir!
 
 **` Log Update `**
 
-*12/2/2026 : Index Juz 29 dan Juz 30 done*
+> *12/2/2026 : Index Juz 29 dan Juz 30 done*
 *10/2/2026 : Index Juz 28 done*
 *9/2/2026 : Index Juz 26 done, Juz 27 done*
 *7/2/2026 : Index Juz 25 done, tambah sebagian Juz 26*
