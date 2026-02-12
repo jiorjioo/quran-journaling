@@ -11,7 +11,7 @@ Situs ini dibangun menggunakan integrasi aplikasi [Obsidian](https://obsidian.md
 
 Jika menggunakan PC/Desktop, catatan bisa diakses melalui *sidebar* sebelah kiri. Folder **`Catatan`** berisi seluruh notes yang ada dalam database ini. Folder **`Per Juz`** berisi kelompok-kelompok catatan yang telah dikategorisasikan per juz. 
 
-Jika menggunakan HP/Mobile, menu ini tersembunyi di dalam ikon garis tiga bersusun (![[burger-icon.png|20]])
+Jika menggunakan HP/Mobile, menu ini tersembunyi di dalam ikon garis tiga bersusun ![[burger-icon.png|20]]
 
 
 
@@ -38,7 +38,7 @@ Di layar PC/Desktop, graph view ini ada di sidebar kanan. Di layar yang lebih ke
 
 Enjoy!
 
-![[graph-view.gif]]
+![[graph-view.gif|center]]
 
 
 ---

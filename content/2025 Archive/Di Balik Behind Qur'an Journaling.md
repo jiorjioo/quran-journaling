@@ -26,7 +26,10 @@ Journaling ini rasanya seperti mencari *sidequest* setiap hari. Kegiatan ini jug
 Mungkin memang terkesan lebih lambat dan berpotensi target khataman tidak terpenuhi. Tapi itu ga seberapa dibandingkan dengan pengalaman mengarsipkan "dialog" bersama Tuhan selama #quranjournaling !
 
 
-![[qj-2.jpeg|250]] ![[qj-4.jpeg| 250]] ![[qj-3.jpeg|250]]  ![[qj-1.jpeg| 250]]
+![[qj-2.jpeg|center|500]]
+![[qj-4.jpeg|center| 500]]
+
+
 
 
 ---
