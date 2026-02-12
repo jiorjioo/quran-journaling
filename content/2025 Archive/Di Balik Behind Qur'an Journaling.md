@@ -1,5 +1,5 @@
 ---
-title: 3. Story Behind Qur'an Journaling
+title: Story Behind Qur'an Journaling
 draft: false
 tags:
   - "#Ramadan1446"

@@ -1,5 +1,5 @@
 ---
-title: 2. Buat Qur'an Journaling-mu Sendiri
+title: Buat Qur'an Journaling-mu Sendiri
 draft: false
 tags:
 ---

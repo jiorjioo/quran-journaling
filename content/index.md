@@ -7,7 +7,7 @@ title: Salam! 👋
 
 *Qur'an Journaling* adalah suatu metode journaling/mencatat apapun yang berkaitan dengan pembacaan Al-Qur'an. Ini metode pencatatan yang cukup personal dan bisa berisi macam-macam tema: insight ceramah, tafsir, asbabun nuzul, hingga "sekadar" refleksi momen personal yang berkaitan dengan ayat yang sedang dibaca. 
 
-Untuk mendapatkan full experience menggunakan situs ini, silakan cek halaman berikut: [[1. Cara Menggunakan Situs Between Verses]].
+Untuk mendapatkan full experience menggunakan situs ini, silakan cek halaman berikut: [[Cara Menggunakan Situs Between Verses]].
 
 Oke deh, kalau gitu selamat menjelajahi situs yang masih banyak alpanya ini. 
 
@@ -29,12 +29,11 @@ Terima kasih udah mampir!
 
 ### **Halaman-halaman**
 
-[[1. Cara Menggunakan Situs Between Verses]]
+1. [[Cara Menggunakan Situs Between Verses]]
+2. [[Mulai Qur'an Journaling]]
+3. [[Di Balik Behind Qur'an Journaling]]
 
-[[2. Mulai Qur'an Journaling]]
-
-[[3. Di Balik Behind Qur'an Journaling]]
-
+**Daftar lengkap seluruh catatan [Qur'an Journaling 2025](https://betweenverses.vercel.app/2025-Archive/Catatan/)**
 
 ---
 # ⭐ Personal Picks
@@ -55,7 +54,7 @@ Terima kasih udah mampir!
 
 **` Log Update `**
 
-*12/2/2026 : Index Juz 29 dan Juz 30 done*`
+*12/2/2026 : Index Juz 29 dan Juz 30 done, `Between Verses v.01 launched!`*`
 
 *10/2/2026 : Index Juz 28 done*
 

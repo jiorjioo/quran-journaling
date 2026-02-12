@@ -1,5 +1,5 @@
 ---
-title: 1. Cara Menggunakan Situs Between Verses
+title: Cara Menggunakan Situs Between Verses
 draft: false
 tags:
 ---
