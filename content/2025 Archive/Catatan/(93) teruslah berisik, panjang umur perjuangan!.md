@@ -1,7 +1,7 @@
 ---
 Nama Surat:
 No. Ayat:
-date:
+date: 2025-03-26
 ---
 > [!rtl] Adz-Dzariyat: 55
 > وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
@@ -19,6 +19,7 @@ Itu kan termasuk usaha memberi peringatan ya; udah ada dari pakar, orang-orang b
 
 Tapi kalau ternyata mereka masih aja salah sasaran dan ga tepat dalam menjalankan kewajibannya, ga salah juga kalau kabar kurang mengenakkan dari negara pun masih menghantui hari-hari esok WNI. Juga tentu akan "dilawan" dengan semakin maraknya gerakan, diskusi-diskusi, dan kelompok yang mengangkat suara keberpihakan pada #rakyat. 
 
+[[(110) let's organize!]]
 
 ---
 **Direktori**: [[Juz 27]]

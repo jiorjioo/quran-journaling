@@ -1,7 +1,7 @@
 ---
 Nama Surat:
 No. Ayat:
-date:
+date: 2025-03-26
 ---
 > [!rtl] An-Najm: 57-58
 > أَزِفَتِ ٱلْـَٔازِفَةُ

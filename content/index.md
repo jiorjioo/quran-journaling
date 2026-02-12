@@ -7,7 +7,7 @@ title: Salam! 👋
 
 *Qur'an Journaling* adalah suatu metode journaling/mencatat apapun yang berkaitan dengan pembacaan Al-Qur'an. Ini metode pencatatan yang cukup personal dan bisa berisi macam-macam tema: insight ceramah, tafsir, asbabun nuzul, hingga "sekadar" refleksi momen personal yang berkaitan dengan ayat yang sedang dibaca. 
 
-Untuk mendapatkan full experience menggunakan situs ini, silakan cek halaman berikut: [[Cara Menggunakan Situs Between Verses]].
+Untuk mendapatkan full experience menggunakan situs ini, silakan cek halaman berikut: [[1. Cara Menggunakan Situs Between Verses]].
 
 Oke deh, kalau gitu selamat menjelajahi situs yang masih banyak alpanya ini. 
 
@@ -29,9 +29,9 @@ Terima kasih udah mampir!
 
 ### **Halaman-halaman**
 
-1. [[Di Balik Behind Qur'an Journaling]]
-2. [[Mulai Qur'an Journaling]]
-3. [[Cara Menggunakan Situs Between Verses]]
+1. [[3. Di Balik Behind Qur'an Journaling]]
+2. [[2. Mulai Qur'an Journaling]]
+3. [[1. Cara Menggunakan Situs Between Verses]]
 
 
 ---
@@ -39,10 +39,11 @@ Terima kasih udah mampir!
 
 1. [[(18) perjalananmu tuh bakal dibantuin Allah, jadi lurusin niat aja]]
 2. [[(60) fase kehidupan dari lahir sampai mati]]
-3. [[(107) meninggikan derajat dengan berilmu]]
-4. [[(108) ayat agar kita punya pandangan yang visioner]]
-5. [[(110) let's organize!]]
-6. dan semua ayat tentang #eksplorasi 
+3. [[(93) teruslah berisik, panjang umur perjuangan!]]
+4. [[(107) meninggikan derajat dengan berilmu]]
+5. [[(108) ayat agar kita punya pandangan yang visioner]]
+6. [[(110) let's organize!]]
+7. dan semua ayat tentang #eksplorasi 
 ---
 
 **Sumber teks ayat dan terjemahan:** [Quran.com](https://quran.com)
@@ -52,7 +53,7 @@ Terima kasih udah mampir!
 
 **` Log Update `**
 
-*12/2/2026 : Index Juz 29 dan Juz 30 done*
+*12/2/2026 : Index Juz 29 dan Juz 30 done*`
 
 *10/2/2026 : Index Juz 28 done*
 

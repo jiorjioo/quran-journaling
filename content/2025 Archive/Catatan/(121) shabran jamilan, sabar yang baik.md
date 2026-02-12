@@ -1,7 +1,7 @@
 ---
 Nama Surat:
 No. Ayat:
-date:
+date: 2025-03-28
 ---
 > [!rtl] Al-Ma'arij: 5
 > فَٱصْبِرْ صَبْرًۭا جَمِيلًا
