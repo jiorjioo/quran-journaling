@@ -1,5 +1,5 @@
 ---
-title: Memulai Qur'an Journaling-mu Sendiri
+title: Buat Qur'an Journaling-mu Sendiri
 draft: false
 tags:
 ---
@@ -44,4 +44,4 @@ tags:
 
 
 Ini contoh Qur'an Journaling-ku hehe..
-![[WhatsApp Image 2026-02-12 at 01.43.09.jpeg]]
+![[qj-1.jpeg | 500]] ![[qj-2.jpeg|500]]
