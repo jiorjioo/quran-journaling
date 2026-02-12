@@ -35,25 +35,29 @@ Terima kasih udah mampir!
 
 
 ---
+# ⭐ Personal Picks
+
+1. [[(18) perjalananmu tuh bakal dibantuin Allah, jadi lurusin niat aja]]
+2. [[(60) fase kehidupan dari lahir sampai mati]]
+3. [[(107) meninggikan derajat dengan berilmu]]
+4. [[(108) ayat agar kita punya pandangan yang visioner]]
+5. [[(110) let's organize!]]
+6. dan semua ayat tentang #eksplorasi 
+---
 
 **Sumber teks ayat dan terjemahan:** [Quran.com](https://quran.com)
+
+---
 
 
 **` Log Update `**
 
 *12/2/2026 : Index Juz 29 dan Juz 30 done*
-
 *10/2/2026 : Index Juz 28 done*
-
 *9/2/2026 : Index Juz 26 done, Juz 27 done*
-
 *7/2/2026 : Index Juz 25 done, tambah sebagian Juz 26*
-
 *6/2/2026 : Update Juz 24 dan sebagian Juz 25*
-
 *5/2/2026 : Menyelesaikan index Juz 24*
-
 *4/2/2026 : Menambahkan index journaling Juz 23 dan sebagian Juz 24*
-
 *3/2/2026 : Modifikasi interface, tambah index Juz 22*
 
